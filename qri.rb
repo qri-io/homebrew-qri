@@ -2,9 +2,9 @@
 class Qri < Formula
   desc "Global dataset version control system built on the distributed web"
   homepage "https://qri.io/"
-  url "https://github.com/qri-io/qri/releases/download/v0.9.11/qri_darwin_amd64.zip"
-  version "0.9.11"
-  sha256 "529780c35edd75022d9bce0b1ca8a72112e01bf3217099427653d6b8bc3f5a3e"
+  url "https://github.com/qri-io/qri/releases/download/v0.9.12/qri_darwin_amd64.zip"
+  version "0.9.12"
+  sha256 "4fa7f2da49818de94a6bf1b0eda0c4e092fcb3deafcba85ea9b758e58c579e98"
 
   def install
     bin.install "qri"
