@@ -4,7 +4,7 @@ class Qri < Formula
   homepage "https://qri.io/"
   url "https://github.com/qri-io/qri/releases/download/v0.10.0/qri_darwin_amd64.zip"
   version "0.10.0"
-  sha256 "e9909c2f7c4f9502d7f1ee5128333c6557514b356d0bf07c7e0e0941b6f6ec9a"
+  sha256 "5562ed06daaa473a4a09f22f6e905ce8551fa876b4695ec27de4e5726f4e3046"
 
   def install
     bin.install "qri"
